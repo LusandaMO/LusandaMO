@@ -7,39 +7,39 @@
 ---
 
 ## 💻 About Me
-✨ Passionate about **data-driven insights** and ensuring **software quality**.  
-🌱 Currently growing my skills in **data science**, **software testing**, and **analytics**.  
-🤝 Open to **collaborating on projects** that align with testing, data analysis, and building impactful tech solutions.  
+I am Lusanda Matiwana, a **Software Tester** and **Data Analyst** who enjoys combining creativity with technical problem solving.  
+I am passionate about **data-driven decision making** and **ensuring quality in every software product**.  
+Currently, I am enrolled in a **Data Science Learnership at Umuzi.org**, where I am sharpening my technical skills and applying them in real-world projects.  
+
+🤝 I am **open to collaborating** with developers, analysts, and testers on meaningful projects.  
+I believe in teamwork, knowledge sharing, and building solutions that not only work but make a real difference.  
+
+✨ My special abilities include:  
+- Breaking down complex problems into simple, clear solutions.  
+- Balancing attention to detail (as a tester) with big-picture insights (as an analyst).  
+- Adapting quickly to new technologies and working well in fast-changing environments.  
 
 ---
 
 ## 🛠️ My Skills
 
-### 🔎 Software Testing
-- Manual & Automated Testing  
-- Test Case Design & Execution  
-- Bug Tracking & Reporting  
-- Agile & Scrum Practices  
+Here’s a snapshot of the tools and technologies I bring to the table:  
 
-### 📊 Data & Analytics
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Dashboarding & Visualization  
-- SQL & Database Management  
-
-### 🌐 Technical Tools
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- SQL & Database Management Systems  
-- Git & GitHub for Version Control  
-- Excel (Advanced) & Power BI  
-- JIRA, Selenium, Postman  
+| **Software Testing** | **Data & Analytics** | **Technical Tools** |
+|-----------------------|-----------------------|----------------------|
+| Manual & Automated Testing | Data Cleaning & Transformation | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| Test Case Design & Execution | Exploratory Data Analysis (EDA) | SQL & Database Management Systems |
+| Bug Tracking & Reporting | Dashboarding & Visualization | Git & GitHub for Version Control |
+| Agile & Scrum Practices | Data Storytelling & Reporting | Excel (Advanced) & Power BI |
+| Regression & Functional Testing | Statistical Analysis | JIRA, Selenium, Postman |
 
 ---
 
 ## 🌸 Fun Little Extras
-- 🌍 Based in South Africa, always curious about how **data can solve real-world problems**.  
-- 📚 Enjoys continuous learning and mentoring peers.  
-- 🎨 Loves mixing **creativity with technology**.  
+- 🌍 Proudly based in South Africa, passionate about how technology can solve real-world problems.  
+- 📚 A continuous learner who enjoys upskilling and mentoring peers.  
+- 🎨 Creative thinker who loves bringing both **functionality and beauty** into her work.  
+- 🤝 Always excited to **collaborate** with others, whether in open-source, teamwork, or new challenges.  
 
 ---
 
