@@ -40,7 +40,6 @@ Here’s a snapshot of the tools and technologies I bring to the table:
 - 📚 A continuous learner who enjoys upskilling and mentoring peers.  
 - 🎨 Creative thinker who loves bringing both **functionality and beauty** into her work.  
 - 🤝 Always excited to **collaborate** with others, whether in open-source, teamwork, or new challenges.
-- Bring the vybe and fun my side 
 
 ---
 
@@ -49,7 +48,7 @@ Here’s a snapshot of the tools and technologies I bring to the table:
   <a href="https://www.linkedin.com/in/lusanda-matiwana/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:lusandamatiwana@example.com">
+  <a href="mailto:lusandamatiwana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
