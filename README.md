@@ -39,7 +39,8 @@ Here’s a snapshot of the tools and technologies I bring to the table:
 - 🌍 Proudly based in South Africa, passionate about how technology can solve real-world problems.  
 - 📚 A continuous learner who enjoys upskilling and mentoring peers.  
 - 🎨 Creative thinker who loves bringing both **functionality and beauty** into her work.  
-- 🤝 Always excited to **collaborate** with others, whether in open-source, teamwork, or new challenges.  
+- 🤝 Always excited to **collaborate** with others, whether in open-source, teamwork, or new challenges.
+- Bring the vybe and fun my side 
 
 ---
 
